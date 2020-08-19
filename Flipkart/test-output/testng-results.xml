@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Search product is working successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="184" started-at="2020-08-18T08:03:48Z" finished-at="2020-08-18T08:03:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="184" started-at="2020-08-18T08:03:48Z" finished-at="2020-08-18T08:03:48Z">
+      <class name="com.flipkart.search.SearchProduct">
+        <test-method status="PASS" signature="searchproducttest()[pri:0, instance:com.flipkart.search.SearchProduct@396a51ab]" name="searchproducttest" duration-ms="95" started-at="2020-08-18T13:33:48Z" finished-at="2020-08-18T13:33:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Search product is working successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchproducttest -->
+      </class> <!-- com.flipkart.search.SearchProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
